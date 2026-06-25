@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-xyz)
+[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-xyz)
 
 </div>
 
@@ -91,7 +91,7 @@ People are curious about their cognitive abilities. But most online IQ tests are
 3. **🖱️ Run** `IQChecker.exe`
 4. **✅ Start the test**
 
-[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-xyz)
+[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-xyz)
 
 ### Taking a Test
 
@@ -204,7 +204,7 @@ A: Yes. No payments, no crypto miners, no remote access.
 
 <div align="center">
 
-[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/iq-checker-xyz)
+[![Download IQ Checker XYZ](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/iq-checker-xyz)
 
 **Version 1.5.0** — Cognitive assessment tool. Free forever.
 
